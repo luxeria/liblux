@@ -1,4 +1,4 @@
 liblux
 ======
 
-Library for LuXeria and LuXlab
+This is a LuXeria library for EAGLE.
