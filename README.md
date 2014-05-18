@@ -14,7 +14,12 @@ For instance a 1206 chip resistor is called 'r1206'.
 
 ### Classes
 
-| Prefix | Description |
-|--------|-------------|
-| r      | Resistor    |
-| c      | Capacitor   |
+| Prefix   | Description           |
+|----------|-----------------------|
+| diode    | Diode - Rectifier, GP |
+| schottky | Diode - Schottky      |
+| zener    | Diode - Zener         |
+| res      | Resistor              |
+| cap      | Capacitor             |
+| led      | Light Emitting Diode  |
+| opamp    | Operational Amplifier |
