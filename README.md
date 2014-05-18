@@ -15,5 +15,6 @@ For instance a 1206 chip resistor is called //r1206//.
 ### Classes
 
 | Prefix | Description |
-| r | Resistor |
-| c | Capacitor |
+|--------|-------------|
+| r      | Resistor    |
+| c      | Capacitor   |
